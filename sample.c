@@ -7,5 +7,7 @@ int main(){
 	printf("git commit : コミットする\n");
 	printf("git log : コミット履歴を見る\n");
 	printf("git clone  : クローンをつくる\n");
+	printf("git push : プッシュする\n");
+	branch_name();
 	return 0;
 }
